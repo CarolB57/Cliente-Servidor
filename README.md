@@ -13,9 +13,9 @@ O código em questão se baseia na implementação um cliente-servidor que se co
 
 Garante autenticação do servidor via certificado digital e proteção contra ataques de injeção HTML ao emitir respostas com texto puro.
 
-# Rodar o código
+# Execução do código
 
-Para rodar o código, primeiramente rode o servidor com o comando: 
+Para executar o código, primeiramente execute o servidor com o comando: 
 
 ```
 python servidor.py
